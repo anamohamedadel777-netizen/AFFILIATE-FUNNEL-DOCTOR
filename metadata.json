@@ -1,0 +1,8 @@
+{
+  "name": "طبيب الفانل — Affiliate Funnel Doctor",
+  "description": "أداة تشخيص تسريب الفانل في التسويق بالعمولة بالأرقام والرياضيات — شخّص قبل ما تغيّر",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
